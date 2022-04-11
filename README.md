@@ -1,5 +1,5 @@
-# ALP-toolchain
-According to https://www.atgames.net/arcades/features/ you could just ask AtGames to get ALP toolchain
+# ALP toolchain
+According to https://www.atgames.net/arcades/features/ you could just ask AtGames customer service to get ALP toolchain
 
 Here's the setup guide
 
